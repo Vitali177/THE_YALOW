@@ -34,7 +34,8 @@
 
 body {
   height: 100%;
-  width: 100%; }
+  width: 100%;
+  min-width: 640px; }
 
 .wrapper {
   width: 100%;
