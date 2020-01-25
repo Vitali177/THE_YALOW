@@ -188,3 +188,6 @@
         background-color: #eba126;
         border: 1px solid #c5a804;
         border-radius: 0px 10px 10px 0px; } }
+  @media only screen and (max-width: 375px) {
+    .section-1__twitter-mobile-message p {
+      font-size: 12px; } }
